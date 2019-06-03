@@ -43,6 +43,9 @@ Table of Contents
 
 # Sources of Blockchain Information
 ## White Paper
+1. [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+1. [Bitcoin-NG: A Scalable Blockchain Protocol | USENIX](https://www.usenix.org/node/194907)
+
 ## News
 1. [Blockchain.News](https://blockchain.news)
 ## Crypto-Currency Information
