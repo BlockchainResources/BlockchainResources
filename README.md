@@ -25,4 +25,7 @@ Table of Contents
 ## White Paper
 ## News
 1. [Blockchain.News](https://blockchain.news)
-
+## Telegram Groups / Channels
+### Chinese
+### English
+1. [Blockchain.News Channel](https://t.me/blockchainnewsofficial)
