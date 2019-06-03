@@ -1,4 +1,4 @@
-# BlockchainResources
+# Blockchain Resources
 Table of Contents
 =================
    * [Table of Contents](#table-of-contents)
