@@ -14,6 +14,7 @@ Table of Contents
      
 # Generations
 ## Bitcoin
+1. [Original Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 ## Ethereum
 1. [Official Site](https://www.ethereum.org/)
 1. [Building a Private Chain](https://medium.com/blockchainbistro/set-up-a-private-ethereum-blockchain-and-deploy-your-first-solidity-smart-contract-on-the-caa8334c343d)
