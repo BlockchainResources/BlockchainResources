@@ -31,6 +31,7 @@ Table of Contents
 
 # Blockchain Use Cases
 ## Property Tech
+1. [Mortgage - Bank of China Hong Kong](https://www.scmp.com/business/banking-finance/article/2142997/bank-china-embracing-blockchain-use-hong-kong)
 1. [Property Agency - Centaline Group](https://blockchain.news/Post?id=Exclusive-Latest-PropTech-Roadmap-Revealed-From-HK-No1-Property-Agency-01af6674-f694-4348-8ab1-a2d675a89862)
 ## Fintech
 1. [Custody - HEX](https://blockchain.news/Post?id=Blockchain.News-Interview-with-Managing-Partner-of-HEX-Alessio-Quaglini-on-Digital-Asset-Custody)
