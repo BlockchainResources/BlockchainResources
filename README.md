@@ -18,9 +18,9 @@ Table of Contents
 ### HyperLedger
 1. [Build a Blockchain PoC Application using Hyperledger Fabric (Part 1 of 2)](https://blockchain.news/Post?id=55e9afea-12ca-47e5-b4da-d9f16851f496)
 1. [Build a Blockchain PoC Application using Hyperledger Fabric (Part 2 of 2)](https://blockchain.news/Post?id=Build-a-Blockchain-PoC-Application-using-Hyperledger-Fabric-Series-2-of-2-3e0387d3-62eb-4631-adaf-1b37683c80af)
-1. [CBDC Part 2: An Introduction to R3’s Corda](https://blockchain.news/Post?id=80d4f9d2-ce9f-4dbb-8cae-cd582676083a)
 ## Semi-Distributed Permissioned Chain
 ### Corda
+1. [CBDC Part 2: An Introduction to R3’s Corda](https://blockchain.news/Post?id=80d4f9d2-ce9f-4dbb-8cae-cd582676083a)
 # Sources of Blockchain Information
 ## White Paper
 ## News
