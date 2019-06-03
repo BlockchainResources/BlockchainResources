@@ -2,6 +2,7 @@
 Table of Contents
 =================
    * [Table of Contents](#table-of-contents)
+   * [Blockchain Concepts] 
    * [Generations](#blockchain-changes)
       * 1.0: [Bitcoin](#bitcoin)
       * 2.0: [Ethereum](#ethereum)
@@ -11,10 +12,14 @@ Table of Contents
    * [Blockchain Use Cases](#blockchain-use-cases)
    * [Events](#events)
    * [Sources of Blockchain Information](#sources-of-blockchain-information)
-     
+# Blockchain Concepts
+1. [Jackson Palmer - Crypto Explained Videos](https://ummjackson.com/crypto-explained)
+1. [Andreas Antonopoulos Site](https://antonopoulos.com/)
+1. [IBM Blockchain](https://www.ibm.com/hk-en/blockchain)
+1. [Coindesk - Blockchain 1010](https://www.coindesk.com/information)
 # Generations
 ## Bitcoin
-1. [Original Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+1. [Official Site](https://bitcoin.org/)
 ## Ethereum
 1. [Official Site](https://www.ethereum.org/)
 1. [Building a Private Chain](https://medium.com/blockchainbistro/set-up-a-private-ethereum-blockchain-and-deploy-your-first-solidity-smart-contract-on-the-caa8334c343d)
@@ -41,18 +46,29 @@ Table of Contents
 
 # Events
 1. [Consensus](https://www.coindesk.com/events/consensus-2019)
+1. [Hong Kong Blockchain Week](https://www.hkblockchainweek.net/)
+1. [Blockchain Summit](https://www.blockchainsummitlondon.com/)
+1. [Token2049](https://www.token2049.com/)
 1. [Money20/20](https://europe.money2020.com/)
+1. [Unchain](https://www.unchain-convention.com)
+1. [Malta AI & Blockchain Summit](https://maltablockchainsummit.com/)
 
 # Sources of Blockchain Information
-## White Paper
+## Whitepapers
 1. [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 1. [Bitcoin-NG: A Scalable Blockchain Protocol | USENIX](https://www.usenix.org/node/194907)
+1. [Smart Contracts - Nick Szabo](https://web.archive.org/web/20011102030833/http://szabo.best.vwh.net:80/smart.contracts.html)
+1. [Bmoney - Wei Dai](http://www.weidai.com/bmoney.txt)
+1. [Hashcash - A Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf)
 
 ## News
+1. [Coindesk](https://www.coindesk.com/)
+1. [Cointelegraph](https://cointelegraph.com/)
 1. [Blockchain.News](https://blockchain.news)
+1. [CryptoSlate](https://cryptoslate.com/)
 ## Crypto-Currency Information
 1. [CoinMarketCap](https://coinmarketcap.com)
 ## Telegram Groups / Channels
-### Chinese
-### English
+1. [Coindesk Channel](https://telegram.me/coindesk)
+1. [Cointelegraph Channel](https://telegram.me/cointelegraph)
 1. [Blockchain.News Channel](https://t.me/blockchainnewsofficial)
