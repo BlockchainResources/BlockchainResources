@@ -12,6 +12,8 @@ Table of Contents
 # Generations
 ## Bitcoin
 ## Ethereum
+1. [Official Site](https://www.ethereum.org/)
+1. [Building a Private Chain](https://medium.com/blockchainbistro/set-up-a-private-ethereum-blockchain-and-deploy-your-first-solidity-smart-contract-on-the-caa8334c343d)
 ## Permissioned Chain
 ### HyperLedger
 1. [Build a Blockchain PoC Application using Hyperledger Fabric (Part 1 of 2)](https://blockchain.news/Post?id=55e9afea-12ca-47e5-b4da-d9f16851f496)
@@ -23,3 +25,4 @@ Table of Contents
 ## White Paper
 ## News
 1. [Blockchain.News](https://blockchain.news)
+
