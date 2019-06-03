@@ -7,6 +7,7 @@ Table of Contents
       * 2.0: [Ethereum](#ethereum)
       * 3.0: [Permissioned Chain](#permissioned-chain)
       * 4.0: [Semi-Distributed Permissioned Chain](#semo-distributed-permissioned-chain)
+   * [Skillsets for Blockchain Career](#skillsets-for-blockchain-career)
    * [Sources of Blockchain Information](#sources-of-blockchain-information)
      
 # Generations
@@ -21,6 +22,8 @@ Table of Contents
 ## Semi-Distributed Permissioned Chain
 ### Corda
 1. [CBDC Part 2: An Introduction to R3’s Corda](https://blockchain.news/Post?id=80d4f9d2-ce9f-4dbb-8cae-cd582676083a)
+# Skillsets for Blockchain Career
+1. [What are the Top 4 Skillsets for Blockchain Career?](https://blockchain.news/Post?id=What-are-the-Top-4-Skillsets-for-Blockchain-Career-1c1799aa-d18e-4f35-8660-57beb79bc64a)
 # Sources of Blockchain Information
 ## White Paper
 ## News
