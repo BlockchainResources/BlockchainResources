@@ -9,6 +9,7 @@ Table of Contents
       * 4.0: [Semi-Distributed Permissioned Chain](#semo-distributed-permissioned-chain)
    * [Skillsets for Blockchain Career](#skillsets-for-blockchain-career)
    * [Blockchain Use Cases](#blockchain-use-cases)
+   * [Events](#events)
    * [Sources of Blockchain Information](#sources-of-blockchain-information)
      
 # Generations
@@ -24,8 +25,10 @@ Table of Contents
 ## Semi-Distributed Permissioned Chain
 ### Corda
 1. [CBDC Part 2: An Introduction to R3’s Corda](https://blockchain.news/Post?id=80d4f9d2-ce9f-4dbb-8cae-cd582676083a)
+
 # Skillsets for Blockchain Career
 1. [What are the Top 4 Skillsets for Blockchain Career?](https://blockchain.news/Post?id=What-are-the-Top-4-Skillsets-for-Blockchain-Career-1c1799aa-d18e-4f35-8660-57beb79bc64a)
+
 # Blockchain Use Cases
 ## Property Tech
 1. [Property Agency - Centaline Group](https://blockchain.news/Post?id=Exclusive-Latest-PropTech-Roadmap-Revealed-From-HK-No1-Property-Agency-01af6674-f694-4348-8ab1-a2d675a89862)
@@ -33,6 +36,11 @@ Table of Contents
 1. [Custody - HEX](https://blockchain.news/Post?id=Blockchain.News-Interview-with-Managing-Partner-of-HEX-Alessio-Quaglini-on-Digital-Asset-Custody)
 ## Tech Research Industry
 1. [AI - Hong Kong AI Lab](https://blockchain.news/Post?id=Talent-Shortage%3A-The-Key-Pain-Point-in-AI-Industry-9d7cfc35-19dd-4d2a-a471-9d8a4123ffc2)
+
+# Events
+1. [Consensus](https://www.coindesk.com/events/consensus-2019)
+1. [Money20/20](https://europe.money2020.com/)
+
 # Sources of Blockchain Information
 ## White Paper
 ## News
