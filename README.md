@@ -2,7 +2,7 @@
 Table of Contents
 =================
    * [Table of Contents](#table-of-contents)
-   * [Blockchain Concepts] 
+   * [Blockchain Concepts](#blockchain-concepts)
    * [Generations](#blockchain-changes)
       * 1.0: [Bitcoin](#bitcoin)
       * 2.0: [Ethereum](#ethereum)
@@ -16,7 +16,7 @@ Table of Contents
 1. [Jackson Palmer - Crypto Explained Videos](https://ummjackson.com/crypto-explained)
 1. [Andreas Antonopoulos Site](https://antonopoulos.com/)
 1. [IBM Blockchain](https://www.ibm.com/hk-en/blockchain)
-1. [Coindesk - Blockchain 1010](https://www.coindesk.com/information)
+1. [Coindesk - Blockchain 101](https://www.coindesk.com/information)
 # Generations
 ## Bitcoin
 1. [Official Site](https://bitcoin.org/)
